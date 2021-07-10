@@ -1,0 +1,77 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.factory{
+    color: green;
+}
+h1{
+    
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+}
+.half-width{
+    display: flex;
+    margin:5px;
+
+}
+#back-ground{
+    background-image: url(Frame\ 58.png);
+}
+.image-width{
+    width: 100%;
+    border-radius: 20px;
+}
+.menu-curt{
+    text-align: center;
+}
+.link-button{
+    text-decoration: none;
+    background-image:repeating-linear-gradient(green);
+    background-color: rgb(23, 150, 50);
+    font-weight: 800;
+    
+    padding: 10px 40px;
+    border-radius: 20px; 
+
+}
+.menu-div{
+    margin: 10px;
+    border-radius: 20px;
+    background-color: lightgreen;
+}
+.menu-img{
+    width: 100%;
+    height: 60vh;
+    border-radius: 5%;
+    padding: 10px;
+    
+}
+.image-size{
+    width:80%;
+}
+.experience-item{
+    width: 33.30%;
+    height: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px  gray;
+    border-left:10px;
+}
+.special-align{
+    width: 90%;
+    height: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px  gray;
+    border-left:10px;
+
+}
